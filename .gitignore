@@ -1,1 +1,4 @@
+features/
+prepared_data_cnn/
 preprocessed_pairs/
+processed_features/
